@@ -1,10 +1,11 @@
-Mentalist
-change information about target to word list
+# Mentalist
+###### change information about target to word list
 
-usage:
-
-windows
-	- python main.py
-	
-linux
-	- python3 main.py
+- Windows
+```
+python main.py
+```
+- Linux
+```
+python3 main.py
+```
